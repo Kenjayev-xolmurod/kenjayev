@@ -1,9 +1,9 @@
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Kenjayev+xolmurod!;IT+Mentor+%26+student;Mentor+in+Programming+and+IT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Kenjayev+Xolmurod!;IT+Mentor+%26+student;Mentor+in+Programming+and+IT" alt="Typing SVG" />
 </div>
 
-## 🧑‍💻 About Me Kenjayev Xolmurod
+## 🧑‍💻 About Me 
 
 💻 **Profession:** IT Park & Programming student
 🎯 **Goal:** Teaching youth, sharing knowledge, and contributing to their future
