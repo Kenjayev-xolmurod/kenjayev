@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me Kenjayev Xolmurod
 
-💻 **Profession:** IT Park Student & Programming student
+💻 **Profession:** IT Park & Programming student
 🎯 **Goal:** Teaching youth, sharing knowledge, and contributing to their future
 🎓 **Fields I Teach:** Python, Web Development, Cybersecurity
 
